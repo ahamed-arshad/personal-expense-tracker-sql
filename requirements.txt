@@ -1,0 +1,6 @@
+jupyterlab
+jupysql
+psycopg2-binary
+sqlalchemy
+pandas
+matplotlib
